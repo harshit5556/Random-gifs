@@ -1,3 +1,4 @@
+![random](https://github.com/user-attachments/assets/ce376174-627e-4e6e-8bd8-cce7db33727e)
 # random-gifs
 Random GIF Generator: A React App for Discovering and Sharing GIFs with a Fun Twist! 
 This project is a GIF generator built with HTML, CSS, **JavaScript**, and **React**.
